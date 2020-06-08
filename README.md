@@ -1,3 +1,3 @@
-# BandarRepo:
+# HackAppsRepo:
 
 - https://HackApps.github.io/
